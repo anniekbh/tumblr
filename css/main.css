@@ -3,12 +3,11 @@
 }
 body {
 	background-image: url("../img/gato_patas.jpg");
-	background-size: cover;
 	background-repeat: no-repeat;
 	font-family: 'Pacifico', cursive;
 }
 .opciones{
-	padding-top: 41%;
+	padding-top: 35%;
 }
 .eleccion{
 	background-color: rgba(102,102,102,0.80);
@@ -22,4 +21,8 @@ i{
 h4{
 	color: #2E294E;
 }
-
+.post{
+	background-color: rgba(102,102,102,0.80);
+	margin-bottom: 2%;
+	padding: 3%;
+}
